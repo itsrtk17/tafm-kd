@@ -80,7 +80,7 @@ Other operating systems and CUDA configurations have not been fully verified.
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/itsrtk17/tafm-kd.git
 cd tafm-kd
 ```
 
@@ -289,7 +289,7 @@ The experimental KD continuation should be evaluated separately from the baselin
 
 If you use this repository in academic work, cite the research paper that motivated the project and clearly identify which implementation and experimental components you used.
 
-## 14. ## Contributors
+## 14. Contributors
 
 This project was developed collaboratively by:
 
