@@ -289,9 +289,12 @@ The experimental KD continuation should be evaluated separately from the baselin
 
 If you use this repository in academic work, cite the research paper that motivated the project and clearly identify which implementation and experimental components you used.
 
-## 14. Contributors
+## 14. ## Contributors
 
-Add the names and affiliations of the project contributors here.
+This project was developed collaboratively by:
+
+- **Ritik** — [@itsrtk17](https://github.com/itsrtk17)
+- **Sahil** — [@Sahilk-code](https://github.com/Sahilk-code)
 
 ## 15. License
 
