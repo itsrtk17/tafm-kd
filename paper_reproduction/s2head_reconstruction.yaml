@@ -1,0 +1,7 @@
+{
+  "nc": 1,
+  "channels": 3,
+  "architecture": "documented_s2head_reconstruction",
+  "backbone": [],
+  "head": []
+}

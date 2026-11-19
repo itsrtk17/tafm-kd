@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Datasets and generated outputs
+data/
+datasets/
+runs/
+results/
+checkpoints/
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Local/system files
+.DS_Store
+.env
+.env.*

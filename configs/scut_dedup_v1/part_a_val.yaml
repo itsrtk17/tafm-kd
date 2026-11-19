@@ -1,0 +1,8 @@
+# SCUT-HEAD PART A VAL validation split.
+# Run validation from the repository root.
+path: .
+train: configs/scut_dedup_v1/part_a_val_images.txt
+val: configs/scut_dedup_v1/part_a_val_images.txt
+nc: 1
+names:
+  0: head
