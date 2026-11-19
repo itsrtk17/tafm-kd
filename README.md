@@ -294,5 +294,5 @@ If you use this repository in academic work, cite the research paper that motiva
 This project was developed collaboratively by:
 
 - **Ritik** — [@itsrtk17](https://github.com/itsrtk17)
-- **Sahil** — [@Sahilk-code](https://github.com/Sahilk-code)
+- **Sahil Kumar** — [@Sahilk-code](https://github.com/Sahilk-code)
 
