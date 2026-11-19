@@ -296,6 +296,3 @@ This project was developed collaboratively by:
 - **Ritik** — [@itsrtk17](https://github.com/itsrtk17)
 - **Sahil** — [@Sahilk-code](https://github.com/Sahilk-code)
 
-## 15. License
-
-A repository license will be added after the project contributors confirm the appropriate licensing terms. The dataset's own license and terms remain separate.
