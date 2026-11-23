@@ -4,7 +4,6 @@ Research implementation for **Improving Crowded Head Detection With Task-Aware F
 
 This repository contains YOLO11-based crowded-head detection experiments, an S2Head-style architecture reconstruction, and experimental feature-crossing knowledge-distillation components.
 
-> **Research scope:** This is an adapted research implementation, not an official implementation from the paper's authors and not a claim of exact reproduction of every component or result in the paper. See the implementation notes below.
 
 ## 1. Project overview
 
